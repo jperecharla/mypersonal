@@ -2,11 +2,11 @@
    "nodes" : [
       {
          "name" : "A",
-         "id" : "final_score"
+         "id" : "a"
       },
       {
          "name" : "B",
-         "id" : "environment_score"
+         "id" : "b"
       },
       {
          "name" : "C",
