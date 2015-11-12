@@ -1,15 +1,15 @@
 {
    "nodes" : [
       {
-         "name" : "Total",
+         "name" : "A",
          "id" : "final_score"
       },
       {
-         "name" : "Environment",
+         "name" : "B",
          "id" : "environment_score"
       },
       {
-         "name" : "Land use",
+         "name" : "C",
          "id" : "land_use_score"
       },
       {
